@@ -1,0 +1,9 @@
+C:\Users\jason\Dropbox1\Dropbox\UASLP\Programas Github\SerialChat\SerialChat\bin\Debug\SerialChat.exe.config
+C:\Users\jason\Dropbox1\Dropbox\UASLP\Programas Github\SerialChat\SerialChat\bin\Debug\SerialChat.exe
+C:\Users\jason\Dropbox1\Dropbox\UASLP\Programas Github\SerialChat\SerialChat\bin\Debug\SerialChat.pdb
+C:\Users\jason\Dropbox1\Dropbox\UASLP\Programas Github\SerialChat\SerialChat\obj\Debug\SerialChat.csprojResolveAssemblyReference.cache
+C:\Users\jason\Dropbox1\Dropbox\UASLP\Programas Github\SerialChat\SerialChat\obj\Debug\SerialChat.Form1.resources
+C:\Users\jason\Dropbox1\Dropbox\UASLP\Programas Github\SerialChat\SerialChat\obj\Debug\SerialChat.Properties.Resources.resources
+C:\Users\jason\Dropbox1\Dropbox\UASLP\Programas Github\SerialChat\SerialChat\obj\Debug\SerialChat.csproj.GenerateResource.Cache
+C:\Users\jason\Dropbox1\Dropbox\UASLP\Programas Github\SerialChat\SerialChat\obj\Debug\SerialChat.exe
+C:\Users\jason\Dropbox1\Dropbox\UASLP\Programas Github\SerialChat\SerialChat\obj\Debug\SerialChat.pdb
